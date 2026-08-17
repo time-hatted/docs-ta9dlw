@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-ul2gwo.hartawin.site/sitemap.xml
